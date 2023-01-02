@@ -14,10 +14,17 @@
 ---
  
  ## Potrebne biblioteke
+ Potrebno je imati _Python 3_ (i _pip_), te sljedeće biblioteke:
   * opencv
   * numpy
+ 
+ Pokrenuti `python3` u terminalu da provjerite da li je instaliran. Ako nije instaliran koristite
+ 
+  `sudo apt-get install python3`
   
- Pokrenuti sljedeću naredbu u terminalu za instaliranje gore navedenih dependency-a: 
+ U slučaju da _pip_ nije instaliran, koristite upute sa [linka](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/) kako biste ga instalirali.
+  
+ Pokrenuti sljedeću naredbu u terminalu za instaliranje gore navedenih dependency-a:
  
   `pip install numpy opencv-python`
 
