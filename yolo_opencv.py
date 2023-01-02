@@ -100,6 +100,7 @@ for i in indices:
 
 cv2.imshow("Vehicle detection", image)
 cv2.waitKey()
-    
-cv2.imwrite("vehicle-detection.jpg", image)
-cv2.destroyAllWindows()
+
+# Otkomentarisati linije koda ispod kako bi se slika prikazana spasila u root folder-u sa nazivom "vehicle-detection.jpg"    
+#cv2.imwrite("vehicle-detection.jpg", image)
+#cv2.destroyAllWindows()
