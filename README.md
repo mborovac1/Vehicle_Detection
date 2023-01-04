@@ -1,4 +1,4 @@
-# Detekcija vozila na slikama koristeći OpenCV i Python
+# Detekcija vozila na slici
 
 ##### Elektrotehnički fakultet u Sarajevu
 ##### Računarstvo i informatika
