@@ -1,17 +1,4 @@
 # Detekcija vozila na slici
-
-##### Elektrotehnički fakultet u Sarajevu
-##### Računarstvo i informatika
-#### Prepoznavanje oblika i obrada slike
----
-
- Članovi tima:
- - Muhamed Borovac
- - Vedad Dervišević
- - Ahmedin Hasanović
- - Benjamin Pašić
- - Admir Pozderac
----
  
  ## Potrebne biblioteke
  Potrebno je imati _Python 3_ (i _pip_), te sljedeće biblioteke:
